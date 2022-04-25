@@ -1,0 +1,12 @@
+azure.ai.formrecognizer.FormRecognizerClient
+azure.core.credentials.AzureKeyCredential
+azure.cognitiveservices.vision.face.FaceClient
+azure.cognitiveservices.vision.customvision.prediction.CustomVisionPredictionClient
+msrest.authentication.ApiKeyCredentials
+video_indexer.VideoIndexer
+pandas 
+glob
+uuid
+json
+os
+datetime.datetime
